@@ -1,0 +1,39 @@
+# 📞 Contact Management System
+
+A Python-based Contact Management System that allows users to store, manage, search, update, and delete contacts efficiently using dictionaries and JSON file handling.
+
+---
+
+# 🚀 Features
+
+## ✅ Core Features
+- Add new contacts
+- Search contacts using partial name matching
+- Update existing contacts
+- Delete contacts with confirmation
+- Display all saved contacts
+
+## ✅ Advanced Features
+- Search contacts by phone number
+- Contact groups/categories
+- Export contacts to CSV
+- Contact statistics
+- JSON file storage
+- Backup functionality
+
+## ✅ Validation & Error Handling
+- Phone number validation
+- Email validation
+- Duplicate contact prevention
+- Menu input validation
+
+---
+
+# 📂 Project Structure
+
+```bash
+contacts_manager.py
+contacts.json
+contacts_backup.json
+contacts.csv
+README.md
